@@ -1,0 +1,11 @@
+{
+  "parameters": 11242176,
+  "trainable_parameters": 8459392,
+  "embedding_dimensions": 128,
+  "embedding_bytes_float32": 512,
+  "forward_median_ms": 96.02840749994357,
+  "forward_p95_ms": 304.8718403999601,
+  "search_median_ms": 0.006705999908263038,
+  "gallery_size": 24,
+  "device": "CPU"
+}

@@ -1,0 +1,20 @@
+{
+  "device": "CPU",
+  "torch_version": "2.11.0+cpu",
+  "mode": "proxy",
+  "images": 165,
+  "dataset_used": "handloom_sarees",
+  "archive_not_uploaded": "archive (4).zip",
+  "empty_archive": "normal_sarees",
+  "train_sources": 117,
+  "validation_sources": 24,
+  "test_sources": 24,
+  "gallery_images": 24,
+  "test_queries": 24,
+  "real_cross_color_queries": 0,
+  "epochs": 5,
+  "selected_epoch": 2,
+  "source": "saved notebook code and outputs",
+  "complete_environment_available": false,
+  "weights_embedded_in_notebook": false
+}

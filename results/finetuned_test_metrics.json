@@ -1,0 +1,33 @@
+{
+  "protocol": "proxy",
+  "source": "Full-precision printed JSON in uploaded notebook final cell; not a new training run.",
+  "test": {
+    "retrieval": {
+      "Recall@1": 1.0,
+      "Recall@5": 1.0,
+      "mAP": 1.0,
+      "queries": 24,
+      "gallery_size": 24
+    },
+    "verification": {
+      "ROC_AUC": 0.9935839371980676,
+      "F1": 0.6909090909090909,
+      "FAR": 0.021739130434782608,
+      "FRR": 0.20833333333333334,
+      "threshold": 0.8899458050727844,
+      "positive_pairs": 24,
+      "negative_pairs": 552,
+      "confusion_matrix": [
+        [
+          540,
+          12
+        ],
+        [
+          5,
+          19
+        ]
+      ]
+    },
+    "real_cross_color_retrieval": null
+  }
+}

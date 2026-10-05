@@ -1,0 +1,10 @@
+numpy
+pandas
+pillow
+scikit-learn
+matplotlib
+tqdm
+torch
+torchvision
+# In Colab keep its working torch/torchvision installation.
+# For a version lock, recover environment.txt from the executed runtime.

@@ -1,0 +1,4 @@
+model,Recall@1,Recall@5,mAP,queries,gallery_size,ROC_AUC,F1
+pretrained_rgb,1.0,1.0,1.0,24.0,24.0,0.994188,0.790698
+pretrained_gray,1.0,1.0,1.0,24.0,24.0,0.999396,0.956522
+finetuned,1.0,1.0,1.0,24.0,24.0,0.993584,0.690909
