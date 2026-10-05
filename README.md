@@ -1,7 +1,5 @@
 # DeepLure — Saree Design Retrieval and Verification
 
-[Open the Colab notebook](https://colab.research.google.com/drive/17DpXssl1istUALulFA8yBfMcL80EZu2i?usp=sharing)
-
 **Current status: executed synthetic-color prototype. Real colorway design recognition is not yet validated.**
 
 This repository contains the reviewed executed notebook, measured results recovered from its saved output, an approach note, and reproducibility instructions. No proprietary dataset or image output is included. The trained checkpoint and complete Colab environment are not embedded in an `.ipynb` file and are not available in this package.
